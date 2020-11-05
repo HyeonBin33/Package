@@ -1,0 +1,9 @@
+[submodule "optee"]
+	path = optee
+	url = https://github.com/HyeonBin33/optee.git
+[submodule "kernel"]
+	path = kernel
+	url = https://github.com/HyeonBin33/kernel.git
+[submodule "rootfs"]
+	path = rootfs
+	url = https://github.com/HyeonBin33/rootfs.git
