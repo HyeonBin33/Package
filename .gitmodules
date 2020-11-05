@@ -7,3 +7,6 @@
 [submodule "rootfs"]
 	path = rootfs
 	url = https://github.com/HyeonBin33/rootfs.git
+[submodule "atf2"]
+	path = atf2
+	url = https://github.com/HyeonBin33/atf2.git
